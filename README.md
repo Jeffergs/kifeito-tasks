@@ -30,7 +30,7 @@ O serviço também é responsável por manter a data e o horário de agendamento
 16. [🐳 Docker](#-docker)
 17. [🧪 Testes](#-testes)
 18. [🚫 Fora do escopo da versão 1](#-fora-do-escopo-da-versão-1)
-19. [🚀 Versão 2 — Evoluções planejadas](#-versao-2--evoluções-planejadas)
+19. [🚀 Versão 2 - Evoluções planejadas](#-versao-2-evolucoes-planejadas)
 20. [📄 Licença](#-licença)
 
 ---
@@ -805,7 +805,7 @@ Esses recursos poderão ser avaliados em versões futuras conforme a necessidade
 
 ---
 
-<a id="versao-2--evoluções-planejadas"></a>
+<a id="versao-2-evolucoes-planejadas"></a>
 
 # 🚀 Versão 2 — Evoluções planejadas
 
