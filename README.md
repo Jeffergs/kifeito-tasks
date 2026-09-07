@@ -807,7 +807,7 @@ Esses recursos poderão ser avaliados em versões futuras conforme a necessidade
 
 <a id="versao-2"></a>
 
-# 🚀 Versão 2 — Evoluções planejadas
+# 🚀 Versão 2
 
 A versão 2 passa a enriquecer o gerenciamento das tarefas.
 
