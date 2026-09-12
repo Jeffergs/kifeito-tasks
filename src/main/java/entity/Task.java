@@ -38,6 +38,7 @@ public class Task {
     @Column(nullable = false)
     private LocalDateTime updateAt;
 
+    @Column(nullable = false)
     @Enumerated(EnumType.STRING)
     private Status status;
 
